@@ -9,7 +9,7 @@ Two ways to run Jupyter on an HPC compute node. Method 1 gives you full control 
 
 > **Currently using TACC systems** (Vista, Lonestar6, Stampede3, Frontera). The concepts apply to any HPC system with Slurm and module environments.
 
-**Prerequisites:** An HPC account with MFA set up. If you don't have one, see the [MSCF Getting Started guide](https://morehouse-supercomputing.github.io/mscf-getting-started/).
+**Prerequisites:** An HPC account with MFA set up. If you don't have one, see the [MSF Getting Started guide](https://morehouse-supercomputing.github.io/mscf-getting-started/).
 
 ---
 
@@ -276,4 +276,4 @@ These install to `$HOME/.local` and persist between sessions.
 
 - **System Documentation:** [docs.tacc.utexas.edu](https://docs.tacc.utexas.edu/)
 - **Support Ticket:** [portal.tacc.utexas.edu/tacc-consulting](https://portal.tacc.utexas.edu/tacc-consulting)
-- **MSCF Questions:** [ashley.scruse@morehouse.edu](mailto:ashley.scruse@morehouse.edu)
+- **MSF Questions:** [ashley.scruse@morehouse.edu](mailto:ashley.scruse@morehouse.edu)
